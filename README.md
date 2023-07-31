@@ -4,7 +4,7 @@
 
 - 🏋️ **Years of experience**: 7+
 
-- 🧑‍💻 **What I do**: Software development, RnD, ML & DS.
+- 🧑‍💻 **What I do**: Software development, R&D, ML & DS.
 
 - 🫶 **Domains**: Logistics, Startups, Marketplaces, Healthcare, Infrastructure.
 
