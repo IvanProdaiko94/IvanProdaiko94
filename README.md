@@ -1,6 +1,6 @@
 #### Ivan Prodaiko (Kyiv, Ukraine 🇺🇦) - Senior Software Engineer
 
-- 🏋️ **Years of experience**: 7+
+- 🏋️ **Years of experience**: 8+
 
 - 🧑‍💻 **What I do**: Software development, R&D, ML & DS.
 
